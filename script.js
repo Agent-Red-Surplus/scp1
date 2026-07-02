@@ -1,0 +1,1 @@
+// removed legacy import bridge to script.js after refactor
